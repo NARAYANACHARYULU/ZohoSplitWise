@@ -9,7 +9,8 @@
 ![AddContact](https://user-images.githubusercontent.com/47890506/131120673-a04052b1-8777-41d1-a102-558f80af38ef.PNG)
 
 ![Split Amount]
-![SplitAmount](https://user-images.githubusercontent.com/47890506/131120686-ea81df49-22e4-4733-9f83-9bfcd14dc5a3.PNG)
+![Split](https://user-images.githubusercontent.com/47890506/131121724-8ddcbc25-5399-4e33-8606-df07e1d20bc1.PNG)
+
 
 
 
